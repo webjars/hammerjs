@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>hammerjs</artifactId>
-    <version>2.0.8</version>
+    <version>2.0.9-SNAPSHOT</version>
     <name>HammerJS</name>
     <description>A javascript library for multi-touch gestures</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/hammerjs</url>
         <connection>scm:git:https://github.com/webjars/hammerjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/hammerjs.git</developerConnection>
-        <tag>hammerjs-2.0.8</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
